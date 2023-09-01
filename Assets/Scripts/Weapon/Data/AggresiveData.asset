@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ade1abc058ac3c0479793782f5ab38aa, type: 3}
+  m_Name: AggresiveData
+  m_EditorClassIdentifier: 
+  weaponAttackDetails:
+  - attackName: left
+    attackDamage: 3
+    attackMoveSpeed: 2
+    knockStrength: 10
+    knockAngle: {x: 1, y: 1}
+  - attackName: right
+    attackDamage: 4
+    attackMoveSpeed: 3
+    knockStrength: 15
+    knockAngle: {x: 1, y: 1}
+  - attackName: up
+    attackDamage: 2
+    attackMoveSpeed: 4
+    knockStrength: 20
+    knockAngle: {x: 1, y: 2}

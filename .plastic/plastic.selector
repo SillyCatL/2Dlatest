@@ -1,0 +1,4 @@
+repository "2d忍者@sombercat@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

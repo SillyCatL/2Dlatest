@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36dccb59ed4a68949a08c71aa48e6935, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  moveVelocity: 10
+  JumpForce: 15
+  groundCheckRadius: 0.15
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 64
+  wallCheckDis: 0.55
+  coyoteTime: 0.2
+  jumpBanForce: -0.1
+  slideVelocity: -3
+  wallClimbVelocity: 2.5
+  wallJumpForce: 20
+  wallJumpAngle: {x: 1, y: 2}
+  wallJumpTime: 0.3
+  ledgeCheckDis: 0.55
+  ledgeHoldOffset: {x: 0.4, y: 0.9}
+  ledgeFinishOffset: {x: 0.4, y: 0.75}

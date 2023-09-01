@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - ParticleManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Dead
+  - Damaged
+  - Weapons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1357364145
+    locked: 0
+  - name: Decoration
+    uniqueID: 1035734033
+    locked: 0
+  - name: Platform
+    uniqueID: 3444824091
+    locked: 0
+  - name: Enemy
+    uniqueID: 1305261863
+    locked: 0
+  - name: Player
+    uniqueID: 1545632629
+    locked: 0
+  - name: Forward Decoration
+    uniqueID: 1086885617
+    locked: 0
